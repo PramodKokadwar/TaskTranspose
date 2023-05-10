@@ -1,0 +1,7 @@
+C:\Users\Rajeev Kumar\source\repos\TaskTranspose\TaskTranspose\bin\Debug\TaskTranspose.exe.config
+C:\Users\Rajeev Kumar\source\repos\TaskTranspose\TaskTranspose\bin\Debug\TaskTranspose.exe
+C:\Users\Rajeev Kumar\source\repos\TaskTranspose\TaskTranspose\bin\Debug\TaskTranspose.pdb
+C:\Users\Rajeev Kumar\source\repos\TaskTranspose\TaskTranspose\obj\Debug\TaskTranspose.csproj.AssemblyReference.cache
+C:\Users\Rajeev Kumar\source\repos\TaskTranspose\TaskTranspose\obj\Debug\TaskTranspose.csproj.CoreCompileInputs.cache
+C:\Users\Rajeev Kumar\source\repos\TaskTranspose\TaskTranspose\obj\Debug\TaskTranspose.exe
+C:\Users\Rajeev Kumar\source\repos\TaskTranspose\TaskTranspose\obj\Debug\TaskTranspose.pdb
