@@ -13,9 +13,9 @@ This is a C# console application that transposes a table stored in a CSV file. T
 
 4. Update the pathToFile variable in the Main method of the Transpose class to specify the directory path where your input CSV file is located.
 
-5. Run the application.
+5. Run the Transpose.cs file.
 
-6. The application will search for a CSV file in the specified directory and its subdirectories.
+6. The application will search for a CSV file in the specified directory.
 
 7. If a file is found, the application transposes the data and saves the transposed table to a new CSV file.
 
